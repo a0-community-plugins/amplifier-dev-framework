@@ -1,0 +1,6 @@
+name: Amplifier
+description: Modular AI-powered development assistant with multi-provider support, bundle-based architecture, and ecosystem audit capabilities.
+version: 1.0.0
+settings_sections: []
+per_project_config: true
+per_agent_config: false
